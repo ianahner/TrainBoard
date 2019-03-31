@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TrainBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/TrainBoard-rescue.lib)(options "")(descr ""))
+)
